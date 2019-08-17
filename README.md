@@ -1,2 +1,1 @@
-# heartbleed exploit script
-##  in Python3
+# heartbleed exploit script in python 3
